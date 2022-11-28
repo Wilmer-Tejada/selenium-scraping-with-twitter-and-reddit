@@ -1,0 +1,11 @@
+pip==22.2.2
+setuptools==65.4.0
+
+selenium
+pillow
+webdriver-manager
+chromedriver_autoinstaller
+bs4
+flake8
+black
+schedule
